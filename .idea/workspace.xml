@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2ef1421-1f17-49d7-a799-5627621ae109" name="Changes" comment="" />
+    <list default="true" id="8e90a26d-a57a-4309-bad9-f4855360cacb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/planning-poker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/planning-poker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ruby-version" beforeDir="false" afterPath="$PROJECT_DIR$/.ruby-version" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -15,10 +23,18 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="ProjectId" id="1x9MlINOzLjd5yotY042hfaYKvz" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Rails.Development: planning-poker">
     <configuration name="Development: planning-poker" type="RailsRunConfigurationType" factoryName="Rails">
@@ -124,14 +140,15 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a2ef1421-1f17-49d7-a799-5627621ae109" name="Changes" comment="" />
-      <created>1629762337130</created>
+      <changelist id="8e90a26d-a57a-4309-bad9-f4855360cacb" name="Changes" comment="" />
+      <created>1629762999607</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1629762337130</updated>
-      <workItem from="1629762339711" duration="199000" />
+      <updated>1629762999607</updated>
+      <workItem from="1629763001217" duration="49000" />
     </task>
     <servers />
   </component>
